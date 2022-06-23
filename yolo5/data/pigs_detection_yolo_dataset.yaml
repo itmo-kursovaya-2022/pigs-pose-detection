@@ -1,0 +1,8 @@
+path: data/datasets/pigs_detection_dataset_yolo  # dataset root dir
+train: images/train  # train images 
+val: images/validation  # val images 
+# test: images/validation # test images (optional)
+
+# Classes
+nc: 16  # number of classes
+names: [ "chase", "drink", "eat", "fight", "investigating", "jumpontopof", "lying", "nose-to-nose", "nose-poke-elsewhere", "playwithtoy", "run", "sitting", "sleep", "standing", "walk", "other" ]  # class names

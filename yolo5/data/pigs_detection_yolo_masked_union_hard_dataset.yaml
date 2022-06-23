@@ -1,0 +1,8 @@
+path: data/datasets/pigs_detection_dataset_yolo_masked_union_hard  # dataset root dir
+train: images/train  # train images 
+val: images/validation  # val images 
+# test: images/validation # test images (optional)
+
+# Classes
+nc: 4  # number of classes
+names: ["eat", "lying", "sitting", "standing"]  # class names
