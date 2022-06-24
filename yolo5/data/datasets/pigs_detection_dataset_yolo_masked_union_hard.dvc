@@ -1,0 +1,5 @@
+outs:
+- md5: 1529ce7836392bd6acdff7c8754a29c0.dir
+  size: 1845368322
+  nfiles: 14402
+  path: pigs_detection_dataset_yolo_masked_union_hard
