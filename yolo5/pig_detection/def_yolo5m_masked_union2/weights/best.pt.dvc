@@ -1,0 +1,4 @@
+outs:
+- md5: 7c0e20a2bb2f3ac29ec0ab586ab0ba7d
+  size: 42202157
+  path: best.pt
