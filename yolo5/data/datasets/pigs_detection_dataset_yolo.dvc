@@ -1,0 +1,5 @@
+outs:
+- md5: 3c56b89cb200f513e070c682afe7a4bc.dir
+  size: 2320796053
+  nfiles: 14402
+  path: pigs_detection_dataset_yolo
